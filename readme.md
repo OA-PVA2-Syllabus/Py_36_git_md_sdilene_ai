@@ -1,3 +1,8 @@
+# PVA2 - Programování a vývoj aplikací
+## Cvičení 36: Git Markdown
+
+Git Markdown [prezentace](https://oa-pva2-syllabus.github.io/pva2_prednasky/35_git_markdown/)
+
 # Zadání týmového projektu na téma AI
 
 ## Cíl projektu
