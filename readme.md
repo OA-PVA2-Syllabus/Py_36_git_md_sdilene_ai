@@ -26,6 +26,8 @@ Pokud si nevíte rady, můžete vyúžít následující témata
 - Definice AI
 - Historie AI
 - Základní pojmy a technologie
+- Prompty a jejich tvorba
+- AI v software developmentu (např. programátoři, analytici, projektoví manageři)
 - AI v průmyslu (např. zdravotnictví, finance, doprava)
 - AI v každodenním životě (např. virtuální asistenti, chytré domy)
 - Příklady a případové studie
